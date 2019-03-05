@@ -10,15 +10,8 @@ Sara Ballouz
 [Some things are meant to be easy](/lessons/shortcuts.md)   
 
 ## How-tos
-### Graphical abstract
-[Graphical summaries of the paper.](/lessons/graphical_abstracts.md)   
-
-### Schematic figures
-[Graphical summaries of methods.](/lessons/schematics.md)   
-
-### Scientific figures
-[Results!](/lessons/results.md)   
-
-### Conference posters
-[Templates and more](/lessons/posters.md)   
+[Graphical abstract](/lessons/graphical_abstracts.md)   
+[Schematic figures](/lessons/schematics.md)   
+[Scientific figures](/lessons/results.md)   
+[Conference posters](/lessons/posters.md)   
  
