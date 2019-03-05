@@ -119,7 +119,7 @@ Which can be converted to path objects by creating outlines
 <br/><img src="../figs/image.png"  width="400px" title="">
 - Different tracing options allow for fun objects. 
 <br/><img src="../figs/image_trace.png"  width="200px" title="">  
-<br/><img src="../figs/image_expand.png"  width="200px" title="">  
+<br/><img src="../figs/image_expand.png"  width="400px" title="">  
 
 
 [top](#drawing)
