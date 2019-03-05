@@ -6,6 +6,7 @@ Written by:
 
 ## Getting started 
 [Knowing your workspace and tools](/lessons/intro.md)   
+[Drawing, editing, etc](/lessons/drawing.md)   
 
 ## Shortcuts 
 [Some things are meant to be easy](/lessons/shortcuts.md)   
