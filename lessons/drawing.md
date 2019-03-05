@@ -54,6 +54,7 @@ Pencil is freeform drawing while pen draws (many connected) curves and lines. Li
 #### Pencil
 - Freeform
 <img src="../figs/pencil.png"  width="300px" title="">  
+
 - Edit anchor points (draw over)
 <img src="../figs/pencil_edit.png"  width="300px" title="">  
 
