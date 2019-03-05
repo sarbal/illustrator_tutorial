@@ -1,10 +1,10 @@
 # Illustrator tutorial
-An illustrator tutorial designed for scientific users.
+An illustrator tutorial designed for science users.
 Sara Ballouz
 
 ## Getting started 
 [Knowing your workspace and tools](/lessons/intro.md)   
-[Drawing, editing, etc](/lessons/drawing.md)   
+[Drawing, editing, and tracing](/lessons/drawing.md)   
 
 ## Shortcuts 
 [Some things are meant to be easy](/lessons/shortcuts.md)   
