@@ -6,11 +6,11 @@
 4. Save as PNG. 
 
 Ordered from easy(ish) to hard: 
-http://msb.embopress.org/content/15/2/e8557?cpetoc
-https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30032-8
-https://www.sciencedirect.com/science/article/pii/S0092867419300558?via%3Dihub
-https://www.cell.com/cell/fulltext/S0092-8674(19)30055-8
-https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30029-8
+1.  http://msb.embopress.org/content/15/2/e8557?cpetoc
+2.  https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30032-8
+3.  https://www.sciencedirect.com/science/article/pii/S0092867419300558?via%3Dihub
+4.  https://www.cell.com/cell/fulltext/S0092-8674(19)30055-8
+5.  https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30029-8
 
 
  
