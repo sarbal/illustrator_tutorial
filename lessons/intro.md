@@ -1,4 +1,13 @@
-# Intro
+# Ya basics
+
+- [Table of contents](#intro)
+  * [Getting to know your workspace](#getting-to-know-your-workspace)
+  * [Menu bar](#menu-bar)
+  * [Definitions](#definitions)
+  * [Tools toolbar](#tools-toolbar)
+  * [Properties sidebar](#properties-sidebar)
+  * [Control bar](#control-bar)
+    
 ## Getting to know your workspace
 <img src="../figs/workspace.png" title=""> 
 - Left side bar – tools
@@ -12,7 +21,7 @@
 - Window menu – what tool bars to show 
 <img src="../figs/window_menu.png" title=""> 
 
-## Basics 
+## Definitions 
 - Artboard - where you draw. Saves/prints within the artboard. Can be manipulated/changed, duplicated. 
 <img src="../figs/artboard.png" title=""> 
 
@@ -25,11 +34,18 @@
 
 - Layers - part of the workspace where your objects sit. Multiple layers on an artboard. 
 - Useful to organize and control visibility of objects.  
-<img src="../figs/layers.png" title=""> 
+<img src="../figs/layers.png"  width="300px" title=""> 
 
 - Groups - multiple paths grouped. 
 - Note - cannot group across layers (group gets transferred to top layer).
-<img src="../figs/groups.png" title=""> 
+<img src="../figs/groups.png"  width="500px" title=""> 
+
+- Type - text is a different class of object. Can be modified/edited mostly the same as other objects. 
+<img src="../figs/type.png" width="600px" title=""> 
+
+- Can also convert it to a path but then you lose the ability to edit. 
+<img src="../figs/type_conv.png" width="100px" title=""> 
+
 
 ## Tools toolbar
 - Tools - drawing and manipulation tools. 
@@ -37,7 +53,7 @@
 Hover over to get name and shortcut. 
 - Selection tools grouped together at top. 
 - Followed by drawing tools, and then manipulation/effect tools.  
-<img src="../figs/tools.png" title=""> 
+<img src="../figs/tools.png" width="300px" title=""> 
 
 - Hidden tools can be accessed by holding down on tools with a little triangle in the bottom corner. 
 <img src="../figs/hiddentools.png" title=""> 
@@ -73,3 +89,5 @@ Hover over to get name and shortcut.
 
  
 Back to the [homepage](../README.md)
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
