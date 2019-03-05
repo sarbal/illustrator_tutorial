@@ -13,6 +13,7 @@
     + [Other](#other)
     + [Selection tools](#selection-tools)
     + [Image tracing](#image-tracing)
+-  Back to the [homepage](../README.md)
 
 ## Getting started
 ### New document
