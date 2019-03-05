@@ -1,8 +1,6 @@
 # Illustrator tutorial
-
 An illustrator tutorial designed for scientific users.
-Written by: 
-- Sara Ballouz
+Sara Ballouz
 
 ## Getting started 
 [Knowing your workspace and tools](/lessons/intro.md)   
