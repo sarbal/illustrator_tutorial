@@ -1,9 +1,10 @@
 ## Graphical abstracts 
 
 1. Pick an abstract to replicate. 
-2. Draw the individual features. 
-3. Place the features according to specified layout. 
-4. Save as PNG. 
+2. Create a new document with dimensions 600px by 600px. 
+3. Draw the individual features. 
+4. Place the features according to specified layout. 
+5. Save as PNG. 
 
 Ordered from easy(ish) to hard: 
 1.  http://msb.embopress.org/content/15/2/e8557?cpetoc
