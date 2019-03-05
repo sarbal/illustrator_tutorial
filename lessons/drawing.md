@@ -9,7 +9,7 @@
       - [Pencil](#pencil)
       - [Brush](#brush)
       - [Pen](#pen)
-      - [Shapes: Rectangle, ellipse, rounded rectangle, etc.](#shapes--rectangle--ellipse--rounded-rectangle--etc)
+      - [Shapes: Rectangle, ellipse, rounded rectangle, etc.](#shapes)
     + [Other](#other)
     + [Selection tools](#selection-tools)
     + [Image tracing](#image-tracing)
@@ -60,8 +60,9 @@ Pencil is freeform drawing while pen draws (many connected) curves and lines. Li
 #### Pen
 <img src="../figs/pen.png"  width="300px" title="">  
 
-#### Shapes: Rectangle, ellipse, rounded rectangle, etc. 
-Height and width depends on drag and release. But can force symmetry/locked ratio by dragging and holding shift.  
+#### Shapes
+- Rectangle, ellipse, rounded rectangle, etc. 
+- Height and width depends on drag and release. But can force symmetry/locked ratio by dragging and holding shift.  
 
 <img src="../figs/shapes.png"  width="300px" title="">  
 
