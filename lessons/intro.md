@@ -16,12 +16,10 @@
 - Artboard - where you draw. Saves/prints within the artboard. Can be manipulated/changed, duplicated. 
 <img src="../figs/artboard.png" title=""> 
 
-- Drawings - Graphics are vectors (mostly, can paste in non-vector graphics).
-- Drawn in coordinate space (x and y). 
+- Drawings - Graphics are vectors (mostly, can paste in non-vector graphics). Drawn in coordinate space (x and y). 
 - Paths – series of points, connected. 
 - Lines drawn between the points can be straight or curves. 
-- Anchors – points, connected by lines. 
-- Anchors help define the curvature of the lines. 
+- Anchors – points, connected by lines. Anchors help define the curvature of the lines. 
 - Handles – one way to control the curvature (bezier curves) of lines, and are defined by their length and angle. 
 <img src="../figs/paths.png" title=""> 
 
@@ -60,8 +58,7 @@ Hover over to get name and shortcut.
 
 
 ## Control bar 
-- Edit properties for single or multiple paths/edges 
-- Changes depending on the object you've selected.
+- Edit properties for single or multiple paths/edges. Changes depending on the object you've selected.
 - Paths
 <img src="../figs/control_paths.png" title=""> 
 
