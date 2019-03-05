@@ -18,7 +18,7 @@ Written by:
 [Graphical summaries of methods.](/lessons/schematics.md)   
 
 ### Scientific figures
-[Results!](/lessons/figures.md)   
+[Results!](/lessons/results.md)   
 
 ### Conference posters
 [Templates and more](/lessons/posters.md)   
