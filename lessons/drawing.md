@@ -49,15 +49,20 @@
 ### Drawing
 There are multiple drawing tools, each with unique properties, but mostly do similar things. 
 Pencil is freeform drawing while pen draws (many connected) curves and lines. Lines draws only a single line. Brush is also freeform, but uses stylistic strokes (ie brushes).   
-#### Pencil
-<img src="../figs/pencil.png"  width="300px" title="">  
+<img src="../figs/draw.png"  width="75px" title="">  
 
+#### Pencil
+- Freeform
+<img src="../figs/pencil.png"  width="300px" title="">  
+- Edit anchor points (draw over)
 <img src="../figs/pencil_edit.png"  width="300px" title="">  
 
 #### Brush
+- Freeform, but with style (ie brush strokes) 
 <img src="../figs/brush.png"  width="300px" title="">  
 
 #### Pen
+- Draws lines (curved or straight) between anchor points. 
 <img src="../figs/pen.png"  width="300px" title="">  
 
 #### Shapes
