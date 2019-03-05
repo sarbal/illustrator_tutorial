@@ -4,7 +4,7 @@
   * [Getting started](#getting-started)
     + [New document](#new-document)
     + [Editing vector documents](#editing-vector-documents)
-    + [Exporting and saving:](#exporting-and-saving-)
+    + [Exporting and saving](#exporting-and-saving-)
     + [Drawing](#drawing-1)
       - [Pencil](#pencil)
       - [Brush](#brush)
