@@ -27,3 +27,31 @@
 
 
 ### Drawing
+There are multiple drawing tools, each with unique properties, but mostly do similar things. 
+Pencil is freeform drawing while pen draws (many connected) curves and lines. Lines draws only a single line. Brush is also freeform, but uses stylistic strokes (ie brushes).   
+#### Pencil
+<img src="../figs/pencil.png"  width="300px" title="">  
+
+<img src="../figs/pencil_edit.png"  width="300px" title="">  
+
+#### Brush
+<img src="../figs/brush.png"  width="300px" title="">  
+
+#### Pen
+<img src="../figs/pen.png"  width="300px" title="">  
+
+#### Shapes: Rectangle, ellipse, rounded rectangle, etc. 
+Height and width depends on drag and release. But can force symmetry/locked ratio by dragging and holding shift.  
+
+<img src="../figs/shapes.png"  width="300px" title="">  
+
+
+### Other 
+- Compound paths - make compound paths to merge different shapes/paths together
+<img src="../figs/compound.png"  width="300px" title="">  
+
+- Clipping masks - to hide parts of shapes/paths 
+<img src="../figs/clip.png"  width="300px" title="">  
+
+- Type objects - text 
+
