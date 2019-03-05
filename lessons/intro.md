@@ -7,6 +7,8 @@
   * [Tools toolbar](#tools-toolbar)
   * [Properties sidebar](#properties-sidebar)
   * [Control bar](#control-bar)
+  
+  
 Back to the [homepage](../README.md)
     
 ## Getting to know your workspace
