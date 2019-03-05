@@ -23,3 +23,4 @@
 
 
 Many more here: 
+https://helpx.adobe.com/illustrator/using/default-keyboard-shortcuts.html
