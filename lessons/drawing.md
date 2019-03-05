@@ -7,20 +7,20 @@
 <img src="../figs/new_doc.png"  width="400px" title=""> 
 
 ### Editing vector documents
-1. Right click on your PDF or postscript files. 
+1.  Right click on your PDF or postscript files. 
 <img src="../figs/edit.png"  width="400px" title=""> 
 
-2. Select the page from the document you want to edit. 
+2.  Select the page from the document you want to edit. 
 <img src="../figs/select_page.png"  width="300px" title="">  
 
 ### Exporting and saving:
 1.	Click on File in the dropdown menu. 
 <img src="../figs/file.png"  width="300px" title="">  
 
-2. Save as an illustrator file (.ai) or as an encapuslated postscript file (.eps). 
-3. Export to other file types such as PDFs, TIFFs, etc.  
+2.  Save as an illustrator file (.ai) or as an encapuslated postscript file (.eps). 
+3.  Export to other file types such as PDFs, TIFFs, etc.  
 
-3. Or, save as a JPEG or PNG using “Save for Web”.
+4.  Or, save as a JPEG or PNG using “Save for Web”.
 <img src="../figs/save.png"  width="300px" title="">  
 
 
@@ -48,10 +48,29 @@ Height and width depends on drag and release. But can force symmetry/locked rati
 
 ### Other 
 - Compound paths - make compound paths to merge different shapes/paths together
-<img src="../figs/compound.png"  width="300px" title="">  
+<img src="../figs/compound.png"  width="200px" title="">  
 
 - Clipping masks - to hide parts of shapes/paths 
-<img src="../figs/clip.png"  width="300px" title="">  
+<img src="../figs/clip.png"  width="200px" title="">  
 
 - Type objects - text 
+<img src="../figs/type.png"  width="400px" title=""> 
+Which can be converted to path objects by creating outlines
+<img src="../figs/type_conv.png"  width="200px" title="">  
+<img src="../figs/type_conv2.png"  width="200px" title="">  
+
+
+
+
+### Selection tools 
+<img src="../figs/select_dir.png"  width="50px" title="">  
+<img src="../figs/select.png"  width="50px" title="">  
+<img src="../figs/select_magic.png"  width="50px" title="">
+
+<img src="../figs/select_obj.png"  width="200px" title="">  
+<img src="../figs/select_same.png"  width="200px" title="">  
+
+
+
+
 
