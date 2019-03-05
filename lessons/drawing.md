@@ -19,6 +19,8 @@
 1.	Click on New from the File dropdown menu. 
 2.	Select pre-set or modify dimensions. Name document. You can also select color mode in the advanced menu. Or modify it later on.  
 3.	And there you go! 
+
+
 <img src="../figs/new_doc.png"  width="400px" title=""> 
 
 [top](#drawing)
