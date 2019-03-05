@@ -1,6 +1,6 @@
-# Ya basics
+# Basics 
 
-- [Table of contents](#intro)
+- [Table of contents](#basics)
   * [Getting to know your workspace](#getting-to-know-your-workspace)
   * [Menu bar](#menu-bar)
   * [Definitions](#definitions)
@@ -10,16 +10,23 @@
     
 ## Getting to know your workspace
 <img src="../figs/workspace.png" title=""> 
+
 - Left side bar – tools
 - Right side bar – properties 
 - Top bar – control bar 
 
+
+[top](#basics)
+ 
+ 
 ## Menu bar
 - View menu – appearance of workspace 
 <img src="../figs/view_menu.png" title=""> 
 
 - Window menu – what tool bars to show 
 <img src="../figs/window_menu.png" title=""> 
+
+[top](#basics)
 
 ## Definitions 
 - Artboard - where you draw. Saves/prints within the artboard. Can be manipulated/changed, duplicated. 
@@ -46,6 +53,7 @@
 - Can also convert it to a path but then you lose the ability to edit. 
 <img src="../figs/type_conv.png" width="100px" title=""> 
 
+[top](#basics)
 
 ## Tools toolbar
 - Tools - drawing and manipulation tools. 
@@ -56,38 +64,47 @@ Hover over to get name and shortcut.
 <img src="../figs/tools.png" width="300px" title=""> 
 
 - Hidden tools can be accessed by holding down on tools with a little triangle in the bottom corner. 
-<img src="../figs/hiddentools.png" title=""> 
+<img src="../figs/hiddentools.png"  width="600px" title=""> 
 
 - Tool options can be modified/accessed by double clicking (most tools have this). 
-<img src="../figs/options.png" title=""> 
+<img src="../figs/options.png"  width="400px" title=""> 
+
+[top](#basics)
 
 ## Properties sidebar
 - Many effects and properties (fun sidebar). 
 - Main/most useful are: 
 - Color
-<img src="../figs/colorwheels.png" title=""> 
+<img src="../figs/colorwheels.png"  width="200px" title=""> 
 
 - Effects such as strokes, gradients, transparency 
-<img src="../figs/effects.png" title=""> 
+<img src="../figs/effects.png"  width="600px" title=""> 
 
 - Layers, artboards, actions, appearances, etc. 
+
+[up](#basics)
 
 
 ## Control bar 
 - Edit properties for single or multiple paths/edges. Changes depending on the object you've selected.
 - Paths
-<img src="../figs/control_paths.png" title=""> 
+<img src="../figs/control_paths.png"  width="500px" title=""> 
 
 - Anchor points 
-<img src="../figs/control_points.png" title=""> 
+<img src="../figs/control_points.png"  width="300px" title=""> 
 
 - Type 
-<img src="../figs/control_type.png" title=""> 
+<img src="../figs/control_type.png"  width="600px" title=""> 
 
 - Can also be used to manipulate the position of the object and its width precisely using coordinates, or align relative to other objects 
-<img src="../figs/control_align.png" title=""> 
+<img src="../figs/control_align.png"  width="400px" title=""> 
 
+[top](#basics)
+ 
  
 Back to the [homepage](../README.md)
+
+
+
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
