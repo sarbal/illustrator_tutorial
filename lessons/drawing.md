@@ -78,7 +78,7 @@ Pencil is freeform drawing while pen draws (many connected) curves and lines. Li
 
 ### Other 
 - Compound paths - make compound paths to merge different shapes/paths together
-<br/><img src="../figs/compound.png"  width="200px" title="">  
+<br/><br/><br/><br/><br/><img src="../figs/compound.png"  width="200px" title="">  
 
 - Clipping masks - to hide parts of shapes/paths 
 <br/><img src="../figs/clip.png"  width="200px" title="">  
