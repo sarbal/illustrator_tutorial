@@ -42,8 +42,9 @@
 2.  Save as an illustrator file (.ai) or as an encapuslated postscript file (.eps). 
 3.  Export to other file types such as PDFs, TIFFs, etc.  
 
-4.  Or, save as a JPEG or PNG using “Save for Web”.
-
+4.  Or, save as a JPEG or PNG using “Save for Web” option.
+5.  There, you can select the size, and type of file. 
+<br/><img src="../figs/save.png"  width="300px" title=""> 
 
 [top](#drawing)
 
