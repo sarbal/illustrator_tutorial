@@ -88,7 +88,7 @@ Pencil is freeform drawing while pen draws (many connected) curves and lines. Li
 <br/><img src="../figs/clip.png"  width="200px" title="">  
 
 - Pathfinder - helps create compound shapes with more ease
-<br/><img src="../figs/pathfinder.png"  width="200px" title="">  
+<br/><img src="../figs/pathfinder.png"  width="500px" title="">  
 
 - Type objects - text 
 <br/><img src="../figs/type.png"  width="400px" title=""> 
