@@ -21,6 +21,4 @@ Sara Ballouz
 
 ### Conference posters
 [Templates and more](/lessons/posters.md)   
-
-
-### Inspired by many: 
+ 
