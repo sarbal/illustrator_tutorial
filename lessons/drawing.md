@@ -110,7 +110,17 @@ Which can be converted to path objects by creating outlines
 [top](#drawing)
 
 ### Image tracing  
- 
+#### Manual 
+- Paste image onto artboard and using the pencil (or pen), slowly trace around the part of the figure you want. 
+- This is tedious, but can work for small things. 
+<br/><img src="../figs/image_manual.png"  width="200px" title="">  
+#### Tracer
+- Paste image onto artboard and select the image. 
+<br/><img src="../figs/image.png"  width="200px" title="">
+- Different tracing options allow for fun objects. 
+<br/><img src="../figs/image_trace.png"  width="200px" title="">  
+<br/><img src="../figs/image_expand.png"  width="200px" title="">  
+
 
 [top](#drawing)
  
