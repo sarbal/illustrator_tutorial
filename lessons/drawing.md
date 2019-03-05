@@ -87,6 +87,9 @@ Pencil is freeform drawing while pen draws (many connected) curves and lines. Li
 - Clipping masks - to hide parts of shapes/paths 
 <br/><img src="../figs/clip.png"  width="200px" title="">  
 
+- Pathfinder - helps create compound shapes with more ease
+<br/><img src="../figs/pathfinder.png"  width="200px" title="">  
+
 - Type objects - text 
 <br/><img src="../figs/type.png"  width="400px" title=""> 
 Which can be converted to path objects by creating outlines
