@@ -35,7 +35,7 @@
 
 [top](#drawing)
 
-### Exporting and saving:
+### Exporting and saving
 1.	Click on File in the dropdown menu. 
 <br/><img src="../figs/file.png"  width="300px" title="">  
 
@@ -43,7 +43,6 @@
 3.  Export to other file types such as PDFs, TIFFs, etc.  
 
 4.  Or, save as a JPEG or PNG using “Save for Web”.
-<br/><img src="../figs/save.png"  width="300px" title="">  
 
 
 [top](#drawing)
