@@ -102,6 +102,8 @@ Hover over to get name and shortcut.
 [top](#basics)
  
  
+ 
+ 
 Back to the [homepage](../README.md)
 
 
