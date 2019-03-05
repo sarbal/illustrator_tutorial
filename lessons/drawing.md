@@ -77,6 +77,10 @@ Pencil is freeform drawing while pen draws (many connected) curves and lines. Li
 [top](#drawing)
 
 ### Other 
+- Editing paths
+- Editing points 
+- Editing segments 
+
 - Compound paths - make compound paths to merge different shapes/paths together
 <br/><img src="../figs/compound.png"  width="200px" title="">  
 
@@ -84,10 +88,10 @@ Pencil is freeform drawing while pen draws (many connected) curves and lines. Li
 <br/><img src="../figs/clip.png"  width="200px" title="">  
 
 - Type objects - text 
-<img src="../figs/type.png"  width="400px" title=""> 
+<br/><img src="../figs/type.png"  width="400px" title=""> 
 Which can be converted to path objects by creating outlines
-<img src="../figs/type_conv.png"  width="200px" title="">  
-<img src="../figs/type_conv2.png"  width="200px" title="">  
+<br/><img src="../figs/type_conv.png"  width="200px" title="">  
+<br/><img src="../figs/type_conv2.png"  width="200px" title="">  
 
 [top](#drawing)
 
