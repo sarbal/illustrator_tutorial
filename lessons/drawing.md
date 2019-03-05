@@ -25,10 +25,11 @@
 [top](#drawing)
 
 ### Editing vector documents
-1.  Right click on your PDF or postscript files. 
+1. Download the "load_into_illustrator.pdf" from the data folder (or click [here](../data/load_into_illustrator.pdf) and then click download). 
+2. Right click on the PDF file (this works for postscript anf other vector files). 
 <br/><img src="../figs/edit.png"  width="400px" title=""> 
 
-2.  Select the page from the document you want to edit. 
+3.  Select the page from the document you want to edit. Note, can only open one page at a time (and one version of the document).  
 <br/><img src="../figs/select_page.png"  width="300px" title="">  
 
 [top](#drawing)
