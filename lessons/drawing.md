@@ -109,8 +109,9 @@ Which can be converted to path objects by creating outlines
 [top](#drawing)
 
 ### Image tracing  
+Download this [image](../data/paste_into_illustrator.png) and then click download or/copy one of interest.   
 #### Manual 
-- Paste image onto artboard and using the pencil (or pen), slowly trace around the part of the figure you want. 
+- Paste image onto artboard (or drag and dropw). Using the pencil (or pen), slowly trace around the part of the figure you want. 
 - This is tedious, but can work for small things. 
 <br/><img src="../figs/image_manual.png"  width="200px" title="">  
 #### Tracer
