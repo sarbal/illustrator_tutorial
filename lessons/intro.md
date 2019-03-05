@@ -1,6 +1,6 @@
 # Intro
 Getting to know your workspace: 
-<img src="./figs/workspace.png" width="390" height="450" title=""> 
+<img src="../figs/workspace.png" width="390" height="450" title=""> 
 
 
 
