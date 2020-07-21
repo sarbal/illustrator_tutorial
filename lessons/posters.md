@@ -2,13 +2,12 @@
 - Make sure you use the requested template poster size. Each meeting is different! 
 
 ### Go long or wide 
-<img src="../figs/poster_long_template.png"  width="500px" title=""> 
-
-<img src="../figs/poster_wide_template.png"  width="800px" title=""> 
-
+- Depends on the meeting. 
 
 ### Choose a good layout 
-
+- Two or three columns 
 
 ### Less is more 
+- Text heavy posters are hard to read. 
+- Good titles and figures speak more. 
 
